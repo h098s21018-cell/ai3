@@ -70,27 +70,27 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-        "images" : ["https://recipe1.ezmember.co.kr/cache/recipe/2021/03/23/c730b16822f0a0e4fcb765f96562c8f21.jpg"],
-         "videos": ["https://youtu.be/XXXXXXXXXXX"]
+       "texts": ["중국식 냉면의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
+        "images" : ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbp0i-SmQ6rBx6ps_zchaxSfEXQ-5CweN_NQ&s"],
+         "videos": ["https://www.youtube.com/watch?v=JGPPYe7l6qE&pp=ygUP7KSR6rWt7Iud64K07Je8"]
      },
 
      labels[1]: {
-       "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-       "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-       "videos": ["https://youtu.be/XXXXXXXXXXX"]
+       "texts": ["짜장면의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
+       "images": ["https://minio.nculture.org/amsweb-opt/multimedia_assets/5/13787/20519/c/13787-full-size.jpg", "https://recipe1.ezmember.co.kr/cache/recipe/2020/06/04/d96e1e81ecc8d86c922d486ec6eec4da1.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=tQUTkWfHdO8&pp=ygUJ7Kec7J6l66m00gcJCQgKAYcqIYzv"]
      },
 
      labels[2]: {
-       "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-       "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-       "videos": ["https://youtu.be/XXXXXXXXXXX"]
+       "texts": ["짬뽕의 특징과 유래", "짜 맛 포인트", "지역별 스타일 차이"],
+       "images": ["https://recipe1.ezmember.co.kr/cache/recipe/2023/09/28/508b7b33d78930782020c04e793a1b251.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyNQsvmERnYm6WO3JxGePCO4joHe9poYHR-A&s"],
+       "videos": ["https://www.youtube.com/watch?v=3FBKcTumM5w&pp=ygUG7Kes672V"]
      },
 
      labels[3]: {
-       "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-       "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-       "videos": ["https://youtu.be/XXXXXXXXXXX"]
+       "texts": ["탕수육의 특징과 유래", "소스 맛 포인트", "지역별 스타일 차이"],
+       "images": ["https://homecuisine.co.kr/files/attach/images/142/737/002/969e9f7dc60d42510c5c0353a58ba701.JPG", "https://i.namu.wiki/i/NSZu9w4DRwEPOCgPSzvs4sAZlxfMBoxZLCZQgM_O4wRH8jN0guRfBiLURu-Tno5p-Q2aw5e5gy9gLJsnYKlq8Q.webp"],
+       "videos": ["https://www.youtube.com/watch?v=MtqZekQbE_0&pp=ygUJ7YOV7IiY7Jyh"]
      },
 }
 
