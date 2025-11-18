@@ -71,6 +71,24 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
        "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
+        "images" : ["https://recipe1.ezmember.co.kr/cache/recipe/2021/03/23/c730b16822f0a0e4fcb765f96562c8f21.jpg"],
+         "videos": ["https://youtu.be/XXXXXXXXXXX"]
+     },
+
+     labels[1]: {
+       "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
+       "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "videos": ["https://youtu.be/XXXXXXXXXXX"]
+     },
+
+     labels[2]: {
+       "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
+       "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "videos": ["https://youtu.be/XXXXXXXXXXX"]
+     },
+
+     labels[3]: {
+       "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
        "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
        "videos": ["https://youtu.be/XXXXXXXXXXX"]
      },
